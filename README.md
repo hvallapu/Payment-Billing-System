@@ -1,1 +1,2 @@
 # Payment-Billing-System
+The project titled as “PAYMENT BILLING SYSTEM “is a web based application. The chicago college has different branches at different locations  and wanted to control and maintain the accountant salary and student personal and payment details. Here the Software provides facility for reporting, new student details, payment details ,and modify details of student and salary of the accountant. 
